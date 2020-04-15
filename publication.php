@@ -15,9 +15,9 @@
 		<div class="row my-row">
 			<div  style='margin-bottom:50px; margin-top:25px;' id="row0col0" class="col-xs-12 col-lg-12 my-col">
 				<div style='border-radius:10px;' class="topnav">
-				<a href="index.html">Home</a>
-				<a class="active" href="publication.html">Publications</a>
-				<a href="login.html">Log In</a>
+				<a href="index.php">Home</a>
+				<a class="active" href="publication.php">Publications</a>
+				<a href="login.php">Log In</a>
 				<!-- <input type="text" placeholder="Search.."> -->
 				</div>
 			</div>
